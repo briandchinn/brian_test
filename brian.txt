@@ -1,1 +1,2 @@
-adds some text to this file
+adds some text to this file.
+adds another line of text to this file
